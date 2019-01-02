@@ -1241,5 +1241,179 @@
 	cursor: text;
 
 }
+.xmfoot2{
+	height: 192px;
+	width: 1226px;
+	margin:0 auto;
+	    padding: 40px 0;
+	    box-sizing: border-box;
+}
+.xmfoot2 dl{
+	float: left;
+    width: 160px;
+    height: 112px;
+    margin: 0;
+}
+.xmfoot2 dt{
+	margin: -1px 0 26px;
+    font-size: 14px;
+    line-height: 1.25;
+    color: #424242;
+}
+.xmfoot2 dd{
+	    margin: 10px 0 0;
+    font-size: 12px;
+}
+.xmfoot2 a{
+	 color: #757575;
+	}
+	.xmfoot2 a:hover{
+		color: #ff6700;
+	}
+.xmfoot2 .ft2shu{
+	box-sizing: border-box;
+	width: 1px;
+	height: 112px;
+	border-right: 1px solid #e0e0e0;
+	margin-left: 12px;
+}	
+.ft2dv{
+	float: right;
+    width: 251px;
+    height: 112px;
+  
+    text-align: center;
+    color: #616161;
+} 
+.sjhao{
+	margin: 0 0 5px;
+    font-size: 22px;
+    line-height: 1;
+    color: #ff6700;
+}
+.sjsj{
+	margin: 0 0 16px;
+    font-size: 12px;
+}
+.xmfoot2 .lxkf{
+	display: inline-block;
+	width: 118px;
+    height: 28px;
+    font-size: 12px;
+    line-height: 28px;
+	border-color: #ff6700;
+    background: #fff;
+    color: #ff6700;
+    border:1px solid #ff6700;
+    box-sizing: border-box;
+}
+.xmfoot2 .lxkf:hover{
+	background:#ff6700;
+	color: white;
+}
+.xmfoot3{
+	width: 1226px;
+	height: 232px;
+	box-sizing: border-box;
+	padding: 30px 0;
+    font-size: 12px;
+    background: #fafafa;
+    margin:0 auto;
+    position: relative;
+}
+.ftlogo{
+	width: 57px;
+	height: 57px;
+	background: url(../images/xmlogo.png) no-repeat;
+	background-size: 57px 57px;
+	margin-right: 10px;
+	float: left;
+}
+.ft3rt{
+	float:left;
+}
+.ft3rt li{
+	float: left;
+	
+
+}
+.ft3shu{
+	margin:0 0.25em;;
+	margin-top: 4px;
+	box-sizing: border-box;
+	height: 12px;
+	width: 1px;
+	border-right: 1px solid #757575;
+
+}
+.ft3rt a{
+	color: #757575;
+	line-height: 18px;
+	font-size: 12px;
+}
+.ft3rt a:hover{
+	color: #ff6700;
+}
+.ft3d a{
+	color: #b0b0b0;
+}
+.ft3d{
+	color: #b0b0b0;
+    line-height: 18px;
+    font-size: 12px
+}
+.logosan{
+	width: 267px;
+	height: 19px;
+	background:url(../images/slogan2016.png) no-repeat;
+	text-indent: -2018em;
+	position: absolute;
+	bottom: 30px;
+	right: 470px;
+}	
+.xmba5{
+	display: inline-block;
+	width: 85px;
+	height: 28px;
+	background:url(../images/xmb5.png) no-repeat;
+	position: absolute;
+	bottom: 30px;
+}
+.xmba4{
+	display: inline-block;
+	width: 85px;
+	height: 28px;
+	background:url(../images/xmb4.png) no-repeat;
+	position: absolute;
+	bottom: 30px;
+	right: 115px;
+}
+.xmba3{
+	display: inline-block;
+	width: 85px;
+	height: 28px;
+	background:url(../images/xmb3.png) no-repeat;
+	position: absolute;
+	bottom: 73px;	
+}
+.xmba2{
+	display: inline-block;
+	width: 85px;
+	height: 28px;
+	background:url(../images/xmb2.png) no-repeat;
+	position: absolute;
+	bottom: 73px;
+	right: 115px;	
+}
+.xmba1{
+	display: inline-block;
+	width: 85px;
+	height: 28px;
+	background:url(../images/xmb1.png) no-repeat;
+	background-size: 85px 28px;
+	position: absolute;
+	bottom: 73px;
+	right: 200px;	
+}
 	
 	
